@@ -574,8 +574,7 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 line-height: 1.17;
 letter-spacing: 0.04em;
 color:var(--label-color);
-align-items: center;
-display: flex;}
+align-items: center;}
 
 .span-check {display: inline-flex;
 border-radius: 2px;
@@ -588,9 +587,7 @@ margin-right: 8px;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
 border 250ms cubic-bezier(0.4, 0, 0.2, 1),
 fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
-position: relative;
-fill: transparent;}
+position: relative;}
 
 .icon-ok {fill: #f4f4fd;
 transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
